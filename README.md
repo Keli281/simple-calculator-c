@@ -52,8 +52,3 @@ Natalie Awinja
 Computer Science Student, Multimedia University of Kenya  
 GitHub: [@Keli281](https://github.com/Keli281)
 
----
-
-## License
-
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
