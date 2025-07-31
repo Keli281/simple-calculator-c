@@ -46,6 +46,10 @@ Result: 20.00
 
 ---
 
+## License
+
+This project is open-source. Feel free to use or improve it!
+
 ## Author
 
 Natalie Awinja  
