@@ -48,7 +48,7 @@ Result: 20.00
 
 ## License
 
-This project is open-source. Feel free to use or improve it!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
